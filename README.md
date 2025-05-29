@@ -1,4 +1,4 @@
-# Read_about_me
+
 <h1 align="center">Hi 👋, I'm prerna rajput</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
