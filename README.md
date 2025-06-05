@@ -15,7 +15,7 @@
 - 🎓 Pursuing **Masters**
 - 💻 Learning **MERN Stack**
 - 🧠 Improving my **DSA** and **System Design**
-- 🗣️ Speaking: JavaScript, React, Node.js
+
 
 ---
 
