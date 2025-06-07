@@ -17,6 +17,7 @@
 - 🧠 Improving my **DSA** and **System Design**
 
 
+
 ---
 
 ### 📫 How to reach me:
@@ -68,7 +69,7 @@
 ---
 
 ### ⚡ Fun Fact:
-> 😄 I love making people laugh...  
+> 😄 that am funny......... 
 > 💻 And making code cry (in a good way)
 
 ---
